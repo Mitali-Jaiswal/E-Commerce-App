@@ -1,0 +1,17 @@
+.service{
+    width: 30%;
+    margin: 100px auto;
+    
+    
+}
+.services i{
+    margin-left: 150px;
+    margin-bottom: 30px;
+    font-size: 30px;
+    color: #FF6875;
+}
+
+.service p{
+    margin-top: 20px;
+    font-size: 12px;
+}

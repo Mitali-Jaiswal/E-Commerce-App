@@ -1,0 +1,29 @@
+.details{
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    margin: 100px auto;
+}
+
+.button{
+    text-decoration: none;
+    margin-right: 20px;
+    margin-top: 20px;
+   
+    
+}
+
+.b1{
+    padding: 5px 10px;
+     border-radius: 25px;
+     border: 1px solid #297F87;
+}
+
+.b2{
+    padding: 5px 10px;
+    border-radius: 25px;
+    border: 1px solid #EE6F57;
+    color: #EE6F57;
+    background-color: white;
+
+}

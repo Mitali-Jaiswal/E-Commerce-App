@@ -1,0 +1,35 @@
+.singleSection{
+    background-color: #2E90E5;
+    z-index: -1;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text{
+    margin-left: 150px;
+    margin-top: 100px;
+    color: #fff;
+
+}
+.text h5{
+    font-size: 40px;
+    font-weight: 200;
+    margin-bottom: 20px;
+}
+
+.shopNow{
+    text-decoration: underline;
+    font-size: 12px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+
+
+.img-section img{
+    width:70% ;
+    height: 400px;
+    transform: rotate(10deg);
+}
+

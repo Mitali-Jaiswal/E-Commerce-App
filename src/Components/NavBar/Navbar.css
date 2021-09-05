@@ -1,0 +1,29 @@
+.navbar{
+    display: flex;
+    background-color: #F7F6F2;
+    justify-content: space-between;
+}
+.link{
+    text-decoration: none;
+}
+.navbar h1{
+    color: #FF4252;
+    margin-left: 50px;
+    text-decoration: none;
+}
+.nav-items{
+    display: flex;
+    
+}
+link{
+    text-decoration: none;
+}
+.nav-items h5{
+    margin-right: 20px;
+}
+.link h5{
+    color: black;
+}
+h5{
+    font-size: 18px;
+}

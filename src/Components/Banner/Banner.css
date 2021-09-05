@@ -1,0 +1,17 @@
+
+
+.Banner img {
+    width: 100%;
+    height: 400px;
+    background-color: #FF6875;
+}
+/* 
+@media screen and (min-width:340px) {
+    .Banner img {
+        width:100%;
+        height: 400px;
+        background-color: #FF6875;
+    }
+        
+    
+} */
